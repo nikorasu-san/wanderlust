@@ -1,6 +1,7 @@
 # wanderlust
 
 Live Link: https://satisfying-wanderlust.herokuapp.com/
+
 Pitch: This is a yelp for study abroad programs using the MERN stack.
 
 

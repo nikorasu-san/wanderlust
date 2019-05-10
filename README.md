@@ -46,10 +46,10 @@ We wanted to create an interactive website where people could share their experi
 - Bcrypt.js
 
 **Database:**
-MongoDB
+- MongoDB
 
 **Deployment:**
-Heroku
+- Heroku
 
 ## Shout out 
 - We found an amazing tutorial on how to install Redux and Passport.js https://blog.bitsrc.io/build-a-login-auth-app-with-mern-stack-part-1-c405048e3669
